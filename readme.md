@@ -1,6 +1,6 @@
 
 
-#demo
+#DEMO
 
 readme.md (md-> markdown) --> Markdown files that describe a directory
 
